@@ -1,4 +1,4 @@
-# Graduate-RSA-Housing-Demographics-Practicum-Project
+# Graduate-RSA-Housing-Demographics-Practicum-Project June-August 2018
 The Rutgers Student Affairs Housing Demographics project was a final practicum project where Rutgers Student Affairs was trying to understand how students selected their school dorms based on socio-demographic patterns. The project consisted of analyzing 8 years of previously unexplored student data where a significant time was spent cleaning and manipulating the data for analysis. The data was cleaned and manipulated in Python and Excel while, regression analysis, decision trees, K-modes clustering, and random forest were performed in R. Visualizations were done in Tableau. The following repository consists of the data cleaning portion given that its findings cannot be made public without Rutgers University authorization.   
 # Analytical Task Assigned
 Perform Data Analysis on Rutgers Resident Student Life data (2010-2018) and search for patterns of self-segregation.
